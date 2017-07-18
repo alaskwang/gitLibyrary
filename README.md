@@ -1,4 +1,4 @@
-# gitLibyrary
+# git Library
 
 focus on git using
 
